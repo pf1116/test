@@ -89,16 +89,13 @@ class _State extends State<MyApp> {
                   ],
                   mainAxisAlignment: MainAxisAlignment.center,
                 )),
-<<<<<<< HEAD
                 Text("data"),
-=======
                 Container(
                   width: 100,
                   height: 100,
                   color: Colors.black,
                   child: null,
                 ),
->>>>>>> 12959d8867d7751c7891e0f61b17dd4b9231e85c
               ],
             )));
   }
